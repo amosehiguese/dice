@@ -1,0 +1,59 @@
+# Flutter/Dart related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+pubspec.lock
+
+# IntelliJ related
+.idea/
+*.iml
+
+# VS Code related
+.vscode/
+
+# macOS
+*.DS_Store
+
+# Windows
+*.exe
+*.dll
+*.pdb
+*.bat
+*.log
+
+# Linux
+*.so
+
+# Android related
+android/.gradle/
+android/.idea/
+android/local.properties
+android/app/proguard-rules.pro
+android/app/build/
+
+# iOS related
+ios/Pods/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+ios/Runner.xcworkspace/
+ios/build/
+
+# Flutter build outputs
+**/build/
+
+# Packages and environment files
+*.lock
+.env
+.env.*
+
+# Generated files
+*.generated.*
+*.json.save
+*.tmp
+
+# Firebase/Google services
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
